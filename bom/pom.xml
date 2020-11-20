@@ -22,12 +22,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <!-- Hibernate ORM -->
-        <version.org.hibernate>5.3.6.Final</version.org.hibernate>
+        <version.org.hibernate>5.4.24.Final</version.org.hibernate>
         <version.javax.persistence>2.2</version.javax.persistence>
 
         <!-- Hibernate Search -->
 
-        <version.org.hibernate.search>5.11.0.Final</version.org.hibernate.search>
+        <version.org.hibernate.search>5.11.7.Final</version.org.hibernate.search>
 
         <!-- Careful: Lucene is shared across Neo4J dependencies, Infinispan and Hibernate Search -->
 
