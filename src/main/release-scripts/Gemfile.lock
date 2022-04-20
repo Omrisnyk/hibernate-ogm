@@ -2,8 +2,11 @@ GEM
   remote: http://rubygems.org/
   specs:
     choice (0.2.0)
-    git (1.2.9.1)
+    git (1.11.0)
+      rchardet (~> 1.8)
     json (1.8.2)
+    json (1.8.2-java)
+    rchardet (1.8.0)
 
 PLATFORMS
   java
@@ -11,8 +14,8 @@ PLATFORMS
 
 DEPENDENCIES
   choice
-  git
+  git (>= 1.11.0)
   json
 
 BUNDLED WITH
-   1.11.2
+   1.17.3
