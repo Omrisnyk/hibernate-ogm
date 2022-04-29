@@ -2,4 +2,4 @@ source 'http://rubygems.org'
 
 gem 'choice'
 gem 'git'
-gem 'json'
+gem 'json', '>= 2.3.0'
